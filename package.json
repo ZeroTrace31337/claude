@@ -1,0 +1,20 @@
+{
+  "name": "advanced-heart-specialist-clinic",
+  "version": "1.0.0",
+  "description": "Frontend-only website for Advanced Heart Specialist Clinic — a premium cardiac care clinic showcase built with HTML5, CSS3, and vanilla JavaScript.",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "clinic",
+    "cardiology",
+    "healthcare",
+    "frontend",
+    "static-site"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {}
+}
